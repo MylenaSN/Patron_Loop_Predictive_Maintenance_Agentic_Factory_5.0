@@ -1,0 +1,2 @@
+# Patron_Loop_Predictive_Maintenance_Agentic_Factory_5.0
+Loop_Predictive_Maintenance_Agentic_Factory_5.0
